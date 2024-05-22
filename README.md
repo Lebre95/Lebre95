@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola este es mi principla repositorio 👋
 
 <!--
 **Lebre95/Lebre95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
